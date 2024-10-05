@@ -1,0 +1,49 @@
+# User Information
+
+- **Name:** Rija R.
+- **Company:** CodTech IT Solutions
+- **Domain:** Data Analytics
+- **ID:** CT12DS2209
+- **Duration:** August to October
+
+# Stock Market Prediction
+
+## Overview
+This project aims to predict stock market prices using various machine learning algorithms. The dataset used contains historical stock prices, and various models are implemented to analyze and predict future prices.
+
+## Table of Contents
+- [Technologies Used](#technologies-used)
+- [Data Preprocessing](#data-preprocessing)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Model Building](#model-building)
+- [Model Evaluation](#model-evaluation)
+- [Conclusion](#conclusion)
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Data Preprocessing
+- The dataset is loaded and examined for missing values.
+- Data normalization techniques are applied to prepare the data for modeling.
+
+## Exploratory Data Analysis
+- Various visualizations are created to understand trends and relationships within the data.
+
+## Model Building
+- Multiple machine learning models are trained, including:
+  - Linear Regression
+  - Decision Tree
+  - Random Forest
+
+## Model Evaluation
+- The models are evaluated using metrics such as:
+  - Mean Squared Error (MSE)
+  - R-squared
+
+## Conclusion
+The project concludes with a summary of the model performances and potential areas for further investigation in stock market prediction.
